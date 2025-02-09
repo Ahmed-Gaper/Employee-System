@@ -1,0 +1,26 @@
+# Build Folders (Visual Studio)
+bin/
+obj/
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server LocalDB files (if any)
+*.mdf
+*.ldf
+
+# Build results
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
+
+# Others
+_ReSharper*/
+*.ncrunch*
